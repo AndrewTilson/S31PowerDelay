@@ -14,9 +14,6 @@ wifi:
     ssid: "s31 hotspot"
     password: ""
 
-# Remove the following line if you're not using Home Assistsant or your switch will restart every now and again
-api:
-
 ota:
   platform: esphome
 
